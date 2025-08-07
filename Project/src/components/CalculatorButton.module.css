@@ -1,0 +1,26 @@
+.button{
+  height: 60px;
+  width: 60px;
+  margin-left: 18px;
+  border-radius: 10px;
+  color: oldlace;
+  font-size: 20px;
+}
+.button.red{
+  background-color: #d64040;
+  box-shadow: inset -8px -5px 5px 0px darkred, inset 4px 8px 8px 0px darkred;
+  border: 4px solid black;
+}
+.button.blue{
+  background-color: #1E90FF; 
+  grid-row: span 2;
+  height: 135px; 
+  box-shadow: inset -8px -5px 5px 0px #0b3763, inset 4px 8px 8px 0px #0b3763;
+  border: 4px solid black;
+}
+.button.gray{
+  border: 4px solid black;
+  background-color: #444;
+  box-shadow: inset -8px -5px 5px 0px #111, inset 4px 8px 8px 0px black;
+  
+}

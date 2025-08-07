@@ -1,0 +1,11 @@
+input{
+  height: 60px;
+  width: 275px;
+  margin: 30px 21px;
+  border-radius: 8px;
+  background-color: #B4B47C;
+  border: transparent;
+  font-size: 30px;
+  font-weight: bold;
+  font-family: 'Courier New', Courier, monospace;
+}
