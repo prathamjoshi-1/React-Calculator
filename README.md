@@ -1,9 +1,4 @@
-Here’s a professional & colorful README.md for your React Calculator project with plenty of ✅ green and other emojis:
-
-
----
-
-# 🧮 React Calculator ⚡
+ 🧮 React Calculator ⚡
 
 A **beautiful & responsive calculator** built with **React + Vite**.  
 Fast ⚡, lightweight 🪶, and easy to use ✅.
