@@ -1,4 +1,4 @@
-ssssssswssse 🧮 React Calculator ⚡
+sssssssswssse 🧮 React Calculator ⚡
 
 A **beautiful & responsive calculator** built with **React + Vite**.  
 Fast ⚡, lightweight 🪶, and easy to use ✅.
